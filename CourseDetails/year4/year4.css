@@ -1012,18 +1012,6 @@ nav {
     color: #f1c40f;
 }
 
-.club-poster {
-    padding-top: 5px;
-    height: 70px;
-    width: 220px;
-    /* Adjust the size as needed */
-    filter: invert(100%) contrast(100%);
-}
-
-.img1 {
-    filter: invert(100%) contrast(100%);
-}
-
 /* General Styles */
 * {
     margin: 0;
