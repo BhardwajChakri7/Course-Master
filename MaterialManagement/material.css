@@ -438,13 +438,8 @@
 .club-poster {
     padding-top: 5px;
     height: 70px;
-    width: 220px;
-    /* Adjust the size as needed */
-    filter: invert(100%) contrast(100%);
-}
-
-.img1 {
-    filter: invert(100%) contrast(100%);
+    width: 70px;
+    border-radius: 50px;
 }
 
 /* General Styles */
@@ -1017,18 +1012,6 @@ nav {
     font-size: 2.5rem;
     margin-bottom: 20px;
     color: #f1c40f;
-}
-
-.club-poster {
-    padding-top: 5px;
-    height: 70px;
-    width: 220px;
-    /* Adjust the size as needed */
-    filter: invert(100%) contrast(100%);
-}
-
-.img1 {
-    filter: invert(100%) contrast(100%);
 }
 
 /* General Styles */
