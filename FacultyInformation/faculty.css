@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.club-poster {
+    padding-top: 5px;
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+}
 
 .main-section89 {
     background-color: #ffffff;
@@ -433,18 +439,6 @@
     font-size: 2.5rem;
     margin-bottom: 20px;
     color: #f1c40f;
-}
-
-.club-poster {
-    padding-top: 5px;
-    height: 70px;
-    width: 220px;
-    /* Adjust the size as needed */
-    filter: invert(100%) contrast(100%);
-}
-
-.img1 {
-    filter: invert(100%) contrast(100%);
 }
 
 /* General Styles */
@@ -1017,18 +1011,6 @@ nav {
     font-size: 2.5rem;
     margin-bottom: 20px;
     color: #f1c40f;
-}
-
-.club-poster {
-    padding-top: 5px;
-    height: 70px;
-    width: 220px;
-    /* Adjust the size as needed */
-    filter: invert(100%) contrast(100%);
-}
-
-.img1 {
-    filter: invert(100%) contrast(100%);
 }
 
 /* General Styles */
